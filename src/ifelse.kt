@@ -28,8 +28,8 @@ fun main() {
         8 -> {
             println(8)
         }
-        5 -> {
-            println(5)
+        4 -> {
+            println(4)
         } else -> {
             println("없음")
         }
